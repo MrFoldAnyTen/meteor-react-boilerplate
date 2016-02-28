@@ -4,7 +4,7 @@ Header = React.createClass({
       <div className="container">
         <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <div className="jumbotron">
-          /*None of the above 3 divs make any difference twbs is not working*/
+          {/*None of the above 3 divs make any difference twbs is not working*/}
           <header className='Header'>
             <b>Header</b> &nbsp;
               <a href="/">Home</a> &nbsp;
